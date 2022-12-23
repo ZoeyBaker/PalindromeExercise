@@ -3,7 +3,7 @@ using Xunit;
 
 namespace PalindromeExerciseTests
 {
-    public class UnitTest1
+    public class WordSmith
     {
         [Fact]
         public void Test1()
